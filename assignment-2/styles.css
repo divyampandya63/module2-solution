@@ -9,7 +9,7 @@ h1 {
 
 p {
   
-  background-color: #A52A2A;
+  
   width: 100%;
   padding: 1%;
   height: 150px;
@@ -22,7 +22,7 @@ p {
 
 div {
     margin: 10px;
-	background-color:aqua;
+	background-color:#A52A2A;
 	border: 1px solid black;
 	position: relative;
     height: 200px;
@@ -38,12 +38,10 @@ div h3 {
 	font-size: 1.25em;
 	text-align: center;
 	width: 40%;
-    color: #A52A2A;
+    color: #ffffff;
 }
 
-.col-md-6 #p1{
-text-align: left;
-}
+
 
 /* Simple Responsive Framework. */
 
