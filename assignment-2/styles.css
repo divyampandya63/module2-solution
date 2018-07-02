@@ -4,6 +4,7 @@
 }
 h1 {
   margin-bottom: 15px;
+  text-align: center;
 }
 
 p {
@@ -17,6 +18,27 @@ p {
   color: white;
 }
 
+div {
+    margin: 10px;
+	background-color:aqua;
+	border: 1px solid black;
+	position: relative;
+    height: 200px;
+
+}
+
+
+
+div h3 {
+	border-bottom: 1px solid #000000;
+	border-left: 1px solid #000000;
+	margin: 0 0 0 60%;
+	font-size: 1.25em;
+	text-align: center;
+	width: 40%;
+    background-color: #BB0000;
+    color: #A52A2A;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
